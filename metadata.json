@@ -1,0 +1,7 @@
+{
+  "uuid": "vpn-toggle@bigballer",
+  "name": "VPN Toggle",
+  "description": "Custom VPN toggle for WireGuard",
+  "shell-version": ["42"],
+  "version": 1
+}
